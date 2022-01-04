@@ -5,6 +5,8 @@ Telegram qoidalari sababli Bot ko'p foydalanuvchilarga bir vaqtning o'zida xabar
 yubora olmaydi ya'ni siz xabar yuborish vaqtini bot foydalanuvchilari
 2K dan oshgandan keyin 10 daqida oraliqni mo'ljallab xabar
 vaqtni belgilashuingiz kerak bo'ladi.
+
+[Ishlab turgan bot.](https://t.me/umarulforuqbot)
 ## O'zgaruvchilar
 
 - **Bot malumotlari**
