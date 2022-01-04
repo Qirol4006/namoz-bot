@@ -1,0 +1,10 @@
+bot:
+  name: #BOT NOMI
+  token: #BOT TOKENI
+spring:
+  main:
+    allow-circular-references: true
+  cloud:
+    loadbalancer:
+      ribbon:
+        enable: false
